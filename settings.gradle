@@ -1,0 +1,2 @@
+rootProject.name = "ReadBill"
+include ':app'
